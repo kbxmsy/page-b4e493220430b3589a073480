@@ -1,0 +1,74 @@
+{
+  "version": 2,
+  "template_version": "3a528c553883e59d7cfa",
+  "page_size": 20,
+  "site_id": "8cc6fcb2e916b205e3ded5f7",
+  "owner": "kbxmsy",
+  "repo": "page-b4e493220430b3589a073480",
+  "title": "苏醒云(SUXiNGCLOUD)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "b4e493220430b3589a073480",
+      "a": "苏醒云(SUXiNGCLOUD)",
+      "b": "",
+      "entity": "苏醒云(SUXiNGCLOUD)",
+      "brand": "苏醒云(SUXiNGCLOUD)",
+      "separator": "",
+      "path": "index.html",
+      "hash": "335c82c759b86fefb4e1fa8fe3c8059f11f335e9838ead620b858f76de49372d",
+      "content": {
+        "keyword1": "苏醒云(SUXiNGCLOUD)",
+        "keyword2": "",
+        "primary_entity": "苏醒云(SUXiNGCLOUD)",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "苏醒云 SUXiNGCLOUD 用问答的方式整理连接步骤、套餐差异、节点选择与常见疑问，帮助用户在入手前建立清晰的判断。",
+          "AI_DESCRIPTION": "苏醒云 SUXiNGCLOUD 用问答的方式整理连接步骤、套餐差异、节点选择与常见疑问，帮助用户在入手前建立清晰的判断。"
+        },
+        "_brand_page": {
+          "version": 3,
+          "body": "<style>\n*,*::before,*::after{box-sizing:border-box}\nhtml,body{margin:0;padding:0;background:#0b0b0c;color:#e8e8e8;font-family:-apple-system,BlinkMacSystemFont,\"Segoe UI\",\"PingFang SC\",\"Hiragino Sans GB\",\"Microsoft YaHei\",sans-serif;line-height:1.65;-webkit-font-smoothing:antialiased}\na{color:#aaff1f;text-decoration:none;border-bottom:1px dotted rgba(170,255,31,.4)}\na:hover{color:#caff3f;border-bottom-color:#caff3f}\n.wrap{max-width:1180px;margin:0 auto;padding:0 28px}\n.crumb{font-size:12px;letter-spacing:.18em;text-transform:uppercase;color:#7a7a7a;border-top:1px solid #1d1d1f;border-bottom:1px solid #1d1d1f;padding:14px 0}\n.crumb a{color:#9a9a9a;border-bottom:none}\n.crumb span{color:#3a3a3a;margin:0 10px}\n.tagrow{background:#0b0b0c;border-bottom:1px solid #1d1d1f;padding:10px 0;position:sticky;top:0;z-index:5}\n.tagrow ul{list-style:none;margin:0;padding:0;display:flex;flex-wrap:wrap;gap:0}\n.tagrow li a{display:inline-block;padding:6px 14px;font-size:12px;letter-spacing:.1em;color:#bcbcbc;border:1px solid transparent;border-bottom:none}\n.tagrow li a:hover{color:#aaff1f;border-color:#1d1d1f;background:#111}\n.hero{padding:64px 0 56px;border-bottom:1px solid #1d1d1f}\n.hero .grid{display:grid;grid-template-columns:1.1fr .9fr .9fr;gap:36px}\n.hero .lead{font-size:13px;letter-spacing:.22em;color:#aaff1f;text-transform:uppercase;margin-bottom:18px}\n.hero h1{font-size:58px;line-height:1.05;margin:0 0 18px;font-weight:800;letter-spacing:-.02em}\n.hero h1 em{font-style:normal;color:#aaff1f}\n.hero p.lede{font-size:17px;color:#cfcfcf;margin:0 0 20px}\n.hero blockquote{margin:0;padding:0 0 0 14px;border-left:3px solid #aaff1f;color:#9a9a9a;font-size:14px}\n.hero .col h3{font-size:11px;letter-spacing:.26em;color:#aaff1f;text-transform:uppercase;margin:0 0 12px;padding-bottom:8px;border-bottom:1px solid #1d1d1f}\n.hero .col p{margin:0 0 14px;color:#d6d6d6;font-size:14.5px}\n.hero .col p .n{color:#aaff1f;font-weight:700;margin-right:6px}\n.section{padding:64px 0;border-bottom:1px solid #1d1d1f}\n.section h2{font-size:30px;margin:0 0 8px;letter-spacing:-.01em}\n.section .sub{color:#8a8a8a;margin:0 0 30px;font-size:14px;letter-spacing:.08em;text-transform:uppercase}\n.intro p{font-size:16px;color:#d0d0d0;max-width:780px;margin:0 0 18px}\n.steps{display:grid;grid-template-columns:repeat(4,1fr);gap:24px;margin-top:28px}\n.step{position:relative;padding:24px 20px 22px;background:#111;border:1px solid #1d1d1f}\n.step .num{position:absolute;right:8px;bottom:-22px;font-size:90px;font-weight:900;color:rgba(170,255,31,.08);line-height:1;pointer-events:none}\n.step h3{margin:0 0 10px;font-size:15px;color:#aaff1f;letter-spacing:.08em;text-transform:uppercase}\n.step p{margin:0;font-size:13.5px;color:#bcbcbc}\n.compare{overflow-x:auto;border:1px solid #1d1d1f}\n.compare table{width:100%;border-collapse:collapse;background:#0f0f10;min-width:760px}\n.compare th,.compare td{padding:18px 16px;text-align:left;border-bottom:1px solid #1d1d1f;font-size:14px;vertical-align:top}\n.compare thead th{background:#111;font-size:12px;letter-spacing:.2em;text-transform:uppercase;color:#aaff1f}\n.compare tbody td:first-child{font-weight:700;color:#fff;width:24%}\n.compare td.feat{color:#cfcfcf}\n.compare td.feat::before{content:\"› \";color:#aaff1f;margin-right:4px}\n.compare tr.recommend{background:rgba(170,255,31,.05)}\n.compare tr.recommend td:first-child{color:#aaff1f}\n.compare tr.recommend td:first-child::after{content:\" ★\";color:#aaff1f}\n.compare .price{font-size:20px;font-weight:800;color:#fff;display:block}\n.compare .annual{display:block;color:#8a8a8a;font-size:12px;margin-top:4px;font-weight:400;letter-spacing:.06em}\n.qa{display:grid;grid-template-columns:1fr 1fr;gap:32px 48px}\n.qa article{padding:18px 0 18px 20px;border-left:2px solid #1d1d1f;position:relative}\n.qa article::before{content:\"\";position:absolute;left:-2px;top:18px;width:2px;height:24px;background:#aaff1f}\n.qa h3{margin:0 0 8px;font-size:15.5px;color:#fff;font-weight:700}\n.qa p{margin:0;color:#bdbdbd;font-size:14px}\n.notes{font-size:13px;color:#7a7a7a;line-height:1.7}\n.notes p{margin:0 0 8px}\n.footer{padding:36px 0 60px;color:#5a5a5a;font-size:12px;letter-spacing:.08em;text-align:center;border-top:1px solid #1d1d1f;margin-top:40px}\n@media(max-width:880px){\n.hero .grid{grid-template-columns:1fr;gap:24px}\n.hero h1{font-size:40px}\n.steps{grid-template-columns:1fr 1fr}\n.qa{grid-template-columns:1fr;gap:18px}\n}\n@media(max-width:520px){\n.hero h1{font-size:32px}\n.steps{grid-template-columns:1fr}\n.wrap{padding:0 18px}\n.tagrow ul{overflow-x:auto;white-space:nowrap;flex-wrap:nowrap}\n}\n</style><nav class=\"crumb wrap\" aria-label=\"面包屑\">\n<a href=\"#top\">首页</a><span>/</span><a href=\"#about\">关于苏醒云</a><span>/</span><a href=\"#howto\">上手方式</a><span>/</span><a href=\"#plans\">套餐对照</a><span>/</span><a href=\"#faq\">常见问答</a>\n</nav>\n\n<div class=\"tagrow\">\n<div class=\"wrap\">\n<ul>\n<li><a href=\"#top\">概述</a></li>\n<li><a href=\"#howto\">连接步骤</a></li>\n<li><a href=\"#plans\">套餐对照</a></li>\n<li><a href=\"#client\">客户端与节点</a></li>\n<li><a href=\"#faq\">常见问答</a></li>\n</ul>\n</div>\n</div>\n\n<main id=\"top\">\n\n<section class=\"hero\">\n<div class=\"wrap\">\n<div class=\"grid\">\n<div class=\"col main\">\n<div class=\"lead\">SUXiNGCLOUD · 节点笔记  No. 490</div>\n<h1>苏醒云(SUXiNGCLOUD) · 苏醒云，<em>把连接</em><br>写进日常的那一份</h1>\n<p class=\"lede\">这是一份关于节点、套餐、设备与日常使用疑问的整理。我们不打算用华丽的话术描述网络，只把“怎么连、连到哪里、用多少、哪里可能出问题”摆在一起，让你在订阅之前就能建立一个清晰的判断。</p>\n<blockquote>“如果你只想知道一件事：苏醒云是不是适合我——请先看下面的步骤，再看 FAQ，最后才看价格。”</blockquote>\n</div>\n<div class=\"col\">\n<h3>这份页面解决什么</h3>\n<p><span class=\"n\">01</span>说明苏醒云适合用在哪些日常场景，而不是把每一项功能都写满。</p>\n<p><span class=\"n\">02</span>解释基础版、旗舰版与团队版的差异点，让选择不再模糊。</p>\n<p><span class=\"n\">03</span>列举第一次连接时常被问到的若干个问题。</p>\n</div>\n<div class=\"col\">\n<h3>这份页面不解决什么</h3>\n<p>本页不会罗列节点覆盖地区，也不会给出未经核实的性能数字。若你需要这部分信息，请前往订阅后在控制台查看实时节点列表与状态。</p>\n<p>对于退款、设备兼容性等可能变化的政策，请以站内公告或工单回复为准。</p>\n</div>\n</div>\n</div>\n</section>\n\n<section class=\"section intro\" id=\"about\">\n<div class=\"wrap\">\n<h2>关于苏醒云，先说三件事</h2>\n<p class=\"sub\">在阅读步骤与套餐之前</p>\n<p>苏醒云是一个面向个人与小型团队的订阅型网络工具，我们更倾向于把它当作一份长期使用的“线路清单”来对待——它解决的是“在外网与日常应用之间，建立一条更顺手的通路”。</p>\n<p>第一，它服务于明确的日常需求：浏览跨境站点、解锁受限的流媒体内容、为多人协作提供更稳定的接入。第二，它的套餐按用量与并发设备数设计，不引入复杂的阶梯选项。第三，遇到连接异常时，我们建议先看 FAQ，再通过工单提交具体问题。</p>\n</div>\n</section>\n\n<section class=\"section\" id=\"howto\">\n<div class=\"wrap\">\n<h2>连接步骤，第一次使用的四个动作</h2>\n<p class=\"sub\">从订阅到第一根线</p>\n<div class=\"steps\">\n<div class=\"step\">\n<h3>01 选择套餐</h3>\n<p>在套餐对照表中挑出与设备数、用量匹配的一档，按月或按年支付。</p>\n<div class=\"num\">01</div>\n</div>\n<div class=\"step\">\n<h3>02 获得配置</h3>\n<p>支付完成后，订阅信息与节点配置会出现在用户中心，等待第一次复制。</p>\n<div class=\"num\">02</div>\n</div>\n<div class=\"step\">\n<h3>03 填入客户端</h3>\n<p>在系统设置里填入订阅地址或导入二维码，完成第一次连接。</p>\n<div class=\"num\">03</div>\n</div>\n<div class=\"step\">\n<h3>04 测试与切换</h3>\n<p>用常用站点测试速度与流媒体可用性，必要时在节点列表中手动切换。</p>\n<div class=\"num\">04</div>\n</div>\n</div>\n</div>\n</section>\n\n<section class=\"section\" id=\"plans\">\n<div class=\"wrap\">\n<h2>套餐对照，一表看清</h2>\n<p class=\"sub\">按用量与设备数选择，避免重复升级</p>\n<div class=\"compare\">\n<table>\n<thead>\n<tr>\n<th>项目</th>\n<th>基础版</th>\n<th>旗舰版</th>\n<th>团队版</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>月度价格</td>\n<td><span class=\"price\">¥15/月</span><span class=\"annual\">按年付仅需 ¥150/年</span></td>\n<td><span class=\"price\">¥35/月</span><span class=\"annual\">按年付仅需 ¥350/年</span></td>\n<td><span class=\"price\">¥85/月</span><span class=\"annual\">按年付仅需 ¥850/年</span></td>\n</tr>\n<tr>\n<td>每月流量</td>\n<td>每月 100GB 极速流量</td>\n<td>每月 300GB 极速流量</td>\n<td>每月 1000GB 极速流量</td>\n</tr>\n<tr>\n<td>同时在线设备</td>\n<td>支持 3 台设备同时在线</td>\n<td>支持 5 台设备同时在线</td>\n<td>支持 20 台设备同时在线</td>\n</tr>\n<tr>\n<td>流媒体解锁</td>\n<td>解锁基础流媒体</td>\n<td>全节点原生流媒体解锁</td>\n<td>VIP 专属高带宽节点</td>\n</tr>\n<tr>\n<td>线路与优化</td>\n<td>普通线路节点池</td>\n<td>IPLC 专线游戏加速优化</td>\n<td>支持企业定制路由</td>\n</tr>\n<tr>\n<td>支持服务</td>\n<td>常规工单支持</td>\n<td>7x24 优先工单支持</td>\n<td>专属客户经理服务</td>\n</tr>\n<tr class=\"recommend\">\n<td>适合谁</td>\n<td>单设备轻度使用</td>\n<td>多设备日常使用，常看流媒体</td>\n<td>小组协作、设备数较多</td>\n</tr>\n</tbody>\n</table>\n</div>\n</div>\n</section>\n\n<section class=\"section\" id=\"client\">\n<div class=\"wrap\">\n<h2>客户端与节点，写在订阅之后</h2>\n<p class=\"sub\">把订阅地址放进去之前要知道的事</p>\n<p>苏醒云通过订阅地址下发节点配置，常用系统自带的设置入口即可完成导入。订阅地址通常是一串以 https 开头的长链接，复制后粘贴到对应客户端的“订阅”一项，刷新即可看到节点列表。节点本身不在页面中固定列出，会随维护调整而变化。</p>\n<div class=\"notes\">\n<p>关于下载：客户端本身通常可在应用商店或开源仓库中获取，请在导入苏醒云订阅地址之前先确认设备上已安装对应客户端，避免出现“复制了链接却不知往哪儿粘贴”的情况。</p>\n<p>关于节点名称：苏醒云控制台中显示的节点名称会按地区与线路类型标注，例如普通线路与 IPLC 专线会有不同的命名规则。如发现某个节点长期不可用，请优先在客户端中切换，不要反复等待单点恢复。</p>\n<p>关于设备数：超出“同时在线设备数”后，新设备的连接请求会被暂缓，旧设备关闭后会自动释放名额。</p>\n</div>\n</div>\n</section>\n\n<section class=\"section\" id=\"faq\">\n<div class=\"wrap\">\n<h2>常见问答，订阅前先翻一翻</h2>\n<p class=\"sub\">两栏对照，问题与答案左右并列</p>\n<div class=\"qa\">\n<article>\n<h3>基础版、旗舰版、团队版怎么选？</h3>\n<p>如果你只有一两台设备、偶尔使用，基础版的 100GB 与 3 台设备名额已经足够；如果家中有多台设备同时使用，且需要流媒体与游戏加速，旗舰版是更常见的选择；团队版适合人数较多、设备超过 5 台，或对并发与带宽有更高要求的小组协作场景。</p>\n</article>\n<article>\n<h3>按年付和按月付有什么区别？</h3>\n<p>按年付的折算单价约为按月付的十个月价格，适合已经确认会长期使用的情况；按月付更灵活，适合先用一个月观察节点表现、稳定性与本地连接效果，再决定是否升级到按年付。</p>\n</article>\n<article>\n<h3>为什么订阅之后第一次连接很慢？</h3>\n<p>第一次连接慢通常与本地网络环境、客户端版本或节点当前负载有关。建议先切换到另一条线路测试，确认是否为个别节点的问题；若多条线路都较慢，请提交本地网络信息与客户端日志以便排查。</p>\n</article>\n<article>\n<h3>同时在线设备数是怎么算的？</h3>\n<p>每个套餐同时维持的活跃连接数有上限，例如基础版 3 台、旗舰版 5 台、团队版 20 台。超过上限时，新设备会处于等待状态，直到已有设备下线释放名额。设备短暂断线不会立即释放，通常需要数分钟。</p>\n</article>\n<article>\n<h3>哪些流媒体能解锁？</h3>\n<p>基础版支持较常见的入门级流媒体站点；旗舰版在全节点上提供原生解锁，覆盖范围更广；团队版则面向更高带宽的节点资源。请以订阅后在客户端中实际测试的结果为准，不同地区与时段的可用性可能存在差异。</p>\n</article>\n<article>\n<h3>IPLC 专线与普通线路的区别是什么？</h3>\n<p>普通线路经过的转发节点较多，适合日常浏览与下载；IPLC 专线对路径做了精简，更适合游戏加速与对延迟较敏感的场景。是否选择专线，与你的日常使用内容直接相关，而不仅仅是套餐贵贱。</p>\n</article>\n<article>\n<h3>流量用完会怎样？</h3>\n<p>当月流量耗尽后，连接会进入受限状态。基础版流量额度较小，适合轻度使用；旗舰版与团队版的额度更高，且在使用习惯稳定后可考虑按年付以获得更宽松的余量。</p>\n</article>\n<article>\n<h3>支持哪些付款方式？</h3>\n<p>常见的支付方式会随地区与时间调整，建议在订阅页查看当前可用的支付选项。如未列出所需方式，可通过工单询问。</p>\n</article>\n</div>\n</div>\n</section>\n\n</main>\n\n<footer class=\"footer\">\n<div class=\"wrap\">\n苏醒云 SUXiNGCLOUD · 把连接写进日常的那一份 · 本页内容仅为使用说明与套餐对照\n</div>\n</footer>",
+          "hash": "e726dbc8c6dba3b22adf7af751569e6a715ed0859d7dcd249f7d4a216bc89db5",
+          "seo": {
+            "title": "苏醒云 SUXiNGCLOUD — 一份关于连接、节点与日常使用的网络工具笔记",
+            "keywords": "苏醒云, SUXiNGCLOUD, 节点, 套餐, 流媒体, 设备同时在线, 常见问题",
+            "description": "苏醒云 SUXiNGCLOUD 用问答的方式整理连接步骤、套餐差异、节点选择与常见疑问，帮助用户在入手前建立清晰的判断。"
+          },
+          "provider": "grok",
+          "model": "MiniMax-M3",
+          "design": {
+            "no": "490",
+            "hero": "3 杂志式多栏网格配引言",
+            "palette": "1 墨黑配荧光绿",
+            "nav": "5 页面顶部面包屑加目录",
+            "card": "5 编号大字压底",
+            "plans_view": "1 横向对比表格",
+            "faq_view": "1 双栏问答",
+            "tone": "5 问答引导式",
+            "order": "首屏优先，其余区块由 AI 根据已选构图和信息关系安排"
+          }
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "gejiuai.cn",
+    "host": "p-22a5a541e5.gejiuai.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "6e4ba570eee70cdc2a4443e32db19d33127f37da9d2890bf19982640f5151901",
+    "sitemap.xml": "c0c2a43a56358a7c5394e62526bedeebb76afba06d08587d899a69dcbbd25bd8",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "fbaa292214d2a17ec39c6f4350671be16d3e7d9ddcc2724a5782dd8290e63b36",
+    "robots.txt": "7ffad86e52a07f8a401ea1576be0f800f308d70909ac7d592ebbff6b3c7fd059",
+    "2960700154186d0b195a341d2e07821e.txt": "23b553bfdcaa042cdd7676b14beeb0670b0571709e68f9be00a40a3523c1d50d"
+  },
+  "revision": "c5f5fe962df4bebe31d684cefc66b6af19fe751ca1f0277c3b5e49bd8103ee5d"
+}
